@@ -1,0 +1,10 @@
+# 忽略自动生成的文件
+target/
+*.class
+*.jar
+
+# 忽略 IDE 生成的文件和目录
+.idea/
+
+# 忽略 Maven 依赖
+/.mvn/
